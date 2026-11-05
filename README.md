@@ -110,9 +110,5 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/rasel-deedox">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel-deedox&theme=vision-friendly-dark" alt="Profile Details" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasel-deedox&theme=vision-friendly-dark" alt="Top Languages" />
-  </a>
+
 </p>
