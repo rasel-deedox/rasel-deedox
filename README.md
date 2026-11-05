@@ -102,16 +102,18 @@
   </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Analytics:</h3>
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img height="180em" src="https://streak-stats.demolab.com?user=rasel-deedox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=rasel-deedox&theme=tokyonight&hide_border=true&date_format=j%20M%20Y" alt="GitHub Streak" width="100%" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/rasel-deedox">
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel-deedox&theme=tokyonight" alt="Profile Details" />
-    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasel-deedox&theme=tokyonight" alt="Top Languages" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rasel-deedox&theme=tokyonight&utcoffset=6" alt="Productive Time" />
+  </a>
+</p>
   </a>
 </p>
