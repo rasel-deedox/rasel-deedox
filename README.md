@@ -38,45 +38,45 @@
 
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A93256&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+at+DEEDOX;Building+Smart+Apps+%26+SaaS+with+AI;AI+Agents+%26+Workflow+Automation+Specialist;Full-Stack+Web+%26+Android+App+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+at+DEEDOX;Building+Smart+Apps+%26+SaaS+with+AI;AI+Agents+%26+Workflow+Automation+Specialist;Full-Stack+Web+%26+Android+App+Builder" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Profile Stats & Status Badges -->
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img src="https://komarev.com/ghpvc/?username=rasel-deedox&label=Profile%20Views&color=581838&style=for-the-badge" alt="rasel-deedox" />
+    <img src="https://komarev.com/ghpvc/?username=rasel-deedox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rasel-deedox" />
   </a>
   <a href="https://github.com/rasel-deedox?tab=followers">
-    <img src="https://img.shields.io/github/followers/rasel-deedox?label=Followers&style=for-the-badge&color=581838" alt="followers" />
+    <img src="https://img.shields.io/github/followers/rasel-deedox?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
   </a>
   <a href="https://github.com/rasel-deedox?tab=repositories">
-    <img src="https://img.shields.io/github/stars/rasel-deedox?label=Total%20Stars&style=for-the-badge&color=581838" alt="stars" />
+    <img src="https://img.shields.io/github/stars/rasel-deedox?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="stars" />
   </a>
   <a href="https://deedoxstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/DEEDOX-Founder%20%26%20Lead-4A1525?style=for-the-badge&logo=rocket&logoColor=white" alt="DEEDOX" />
+    <img src="https://img.shields.io/badge/DEEDOX-Founder%20%26%20Lead-800020?style=for-the-badge&logo=rocket&logoColor=white" alt="DEEDOX" />
   </a>
 </p>
 
 <!-- Smart AI & Tech Specialty Tags Linked with Web & Video URLs -->
 <p align="left">
   <a href="https://deedoxstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-3b1a24?style=for-the-badge&logo=openai&logoColor=A93256" alt="AI Agents" />
+    <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-00C7B7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
   </a>
   <a href="https://res.cloudinary.com/c075rrsz/video/upload/v1792567785/fantasy_studio/videos/01_hero_desktop.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/SaaS_&_Web-Full--Stack_Demo-2a1218?style=for-the-badge&logo=next.js&logoColor=A93256" alt="Full Stack Video" />
+    <img src="https://img.shields.io/badge/SaaS_&_Web-Full--Stack_Demo-6366F1?style=for-the-badge&logo=next.js&logoColor=white" alt="Full Stack Video" />
   </a>
   <a href="https://deedoxstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Automation-Smart_Pipelines-3b1a24?style=for-the-badge&logo=zapier&logoColor=A93256" alt="Automation" />
+    <img src="https://img.shields.io/badge/Automation-Smart_Pipelines-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation" />
   </a>
   <a href="https://deedoxstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Mobile_Apps-Android_%26_Kotlin-2a1218?style=for-the-badge&logo=android&logoColor=A93256" alt="Android" />
+    <img src="https://img.shields.io/badge/Mobile_Apps-Android_%26_Kotlin-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   </a>
   <a href="https://res.cloudinary.com/c075rrsz/video/upload/v1792567859/fantasy_studio/videos/13_col3_masterclass.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/Masterclass-Video_Showcase-3b1a24?style=for-the-badge&logo=playcanvas&logoColor=A93256" alt="Masterclass Video" />
+    <img src="https://img.shields.io/badge/Masterclass-Video_Showcase-EC4899?style=for-the-badge&logo=playcanvas&logoColor=white" alt="Masterclass Video" />
   </a>
   <a href="https://github.com/rasel-deedox" target="_blank">
-    <img src="https://img.shields.io/badge/Status-Building_the_Future-4A1525?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building_the_Future-8B5CF6?style=for-the-badge" alt="Status" />
   </a>
 </p>
 
@@ -105,9 +105,13 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img height="180em" src="https://streak-stats.demolab.com?user=rasel-deedox&theme=radical&hide_border=true&background=0d1117&ring=A93256&fire=A93256&currStreakNum=ffffff" alt="GitHub Streak" />
-    
+    <img height="180em" src="https://streak-stats.demolab.com?user=rasel-deedox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
-
+<p align="left">
+  <a href="https://github.com/rasel-deedox">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel-deedox&theme=tokyonight" alt="Profile Details" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasel-deedox&theme=tokyonight" alt="Top Languages" />
+  </a>
 </p>
