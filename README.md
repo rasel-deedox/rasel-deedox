@@ -24,6 +24,7 @@
   </a>
 </p>
 
+<!-- Profile Stats & Status Badges -->
 <p align="left">
   <a href="https://github.com/rasel-deedox">
     <img src="https://komarev.com/ghpvc/?username=rasel-deedox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rasel-deedox" />
@@ -31,6 +32,22 @@
   <a href="https://github.com/rasel-deedox?tab=followers">
     <img src="https://img.shields.io/github/followers/rasel-deedox?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
   </a>
+  <a href="https://github.com/rasel-deedox?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rasel-deedox?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="stars" />
+  </a>
+  <a href="https://deedoxstudio.com/">
+    <img src="https://img.shields.io/badge/DEEDOX-Founder%20%26%20Lead-800020?style=for-the-badge&logo=rocket&logoColor=white" alt="DEEDOX" />
+  </a>
+</p>
+
+<!-- Smart AI & Tech Specialty Tags -->
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-00C7B7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/SaaS_&_Web-Full--Stack_Builder-6366F1?style=for-the-badge&logo=next.js&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Automation-Smart_Pipelines-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Mobile_Apps-Android_&_Cross--Platform-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-LLM_Integration-EC4899?style=for-the-badge&logo=sparkles&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Status-Building_the_Future-8B5CF6?style=for-the-badge" alt="Status" />
 </p>
 
 - 🤖 I build **AI-powered web apps, Android apps, AI Agents, and smart automation workflows**
@@ -51,7 +68,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://github.com/rasel-deedox" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio,css,dart,django,docker,express,flask,flutter,html,js,kotlin,nextjs,nodejs,php,py,react,ts&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,css,dart,django,docker,express,flask,flutter,html,js,kotlin,nextjs,nodejs,php,py,react,ts,supabase,vercel,tailwind&perline=10" alt="My Skills" />
   </a>
 </p>
 
