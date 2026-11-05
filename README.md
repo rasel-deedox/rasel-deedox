@@ -16,22 +16,77 @@
 </div>
 # Hi 👋, I'm Rasel Ahmed | DEEDOX
 
-### A passionate Python developer
+### 🚀 AI-Powered Full-Stack Developer | AI Agent & Automation Builder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasel-deedox" alt="rasel-deedox" /></a> </p>
+<p align="left">
+  <a href="https://github.com/rasel-deedox">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+at+DEEDOX;Building+Smart+Apps+%26+SaaS+with+AI;AI+Agents+%26+Workflow+Automation+Specialist;Full-Stack+Web+%26+Android+App+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Profile Stats & Status Badges -->
+<p align="left">
+  <a href="https://github.com/rasel-deedox">
+    <img src="https://komarev.com/ghpvc/?username=rasel-deedox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rasel-deedox" />
+  </a>
+  <a href="https://github.com/rasel-deedox?tab=followers">
+    <img src="https://img.shields.io/github/followers/rasel-deedox?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  </a>
+  <a href="https://github.com/rasel-deedox?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rasel-deedox?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="stars" />
+  </a>
+  <a href="https://deedoxstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/DEEDOX-Founder%20%26%20Lead-800020?style=for-the-badge&logo=rocket&logoColor=white" alt="DEEDOX" />
+  </a>
+</p>
+
+<!-- Smart AI & Tech Specialty Tags Linked with Web & Video URLs -->
+<p align="left">
+  <a href="https://deedoxstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Agents-Autonomous_Workflows-00C7B7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  </a>
+  <a href="https://res.cloudinary.com/c075rrsz/video/upload/v1792567785/fantasy_studio/videos/01_hero_desktop.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/SaaS_&_Web-Full--Stack_Demo-6366F1?style=for-the-badge&logo=next.js&logoColor=white" alt="Full Stack Video" />
+  </a>
+  <a href="https://deedoxstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Automation-Smart_Pipelines-F59E0B?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation" />
+  </a>
+  <a href="https://deedoxstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Mobile_Apps-Android_%26_Kotlin-10B981?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  </a>
+  <a href="https://res.cloudinary.com/c075rrsz/video/upload/v1792567859/fantasy_studio/videos/13_col3_masterclass.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Masterclass-Video_Showcase-EC4899?style=for-the-badge&logo=playcanvas&logoColor=white" alt="Masterclass Video" />
+  </a>
+  <a href="https://github.com/rasel-deedox" target="_blank">
+    <img src="https://img.shields.io/badge/Status-Building_the_Future-8B5CF6?style=for-the-badge" alt="Status" />
+  </a>
+</p>
+
+- 🤖 I build **AI-powered web apps, Android apps, AI Agents, and smart automation workflows**
 - 👨‍💻 All of my projects are available at **[https://deedoxstudio.com/](https://deedoxstudio.com/)**
-
 - 📝 I regularly write articles on **[https://deedoxstudio.com/](https://deedoxstudio.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rasel-deedox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rasel-deedox" height="30" width="40" /></a>
-<a href="https://twitter.com/RaselAhmel_OX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RaselAhmel_OX" height="30" width="40" /></a>
+  <a href="https://github.com/rasel-deedox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="rasel-deedox" height="40" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/RaselAhmel_OX" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="RaselAhmel_OX" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://github.com/rasel-deedox" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=androidstudio,css,dart,django,docker,express,flask,flutter,html,js,kotlin,nextjs,nodejs,php,py,react,ts,supabase,vercel,tailwind&perline=10" alt="My Skills" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&" alt="rasel-deedox" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&" alt="rasel-deedox" /></p>
+<h3 align="left">GitHub Stats & Analytics:</h3>
+<p align="left">
+  <a href="https://github.com/rasel-deedox">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&" alt="rasel-deedox" /></p>
+  </a>
+</p>
