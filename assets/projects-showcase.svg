@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210">
+  <style>
+    .title { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; fill: #39d353; }
+    .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11.5px; fill: #c9d1d9; }
+    .muted { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; fill: #8b949e; }
+    .tag { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10.5px; fill: #58a6ff; }
+    .card { opacity: 0; animation: fadeUp 0.4s ease forwards; }
+    @keyframes fadeUp { to { opacity: 1; } }
+  </style>
+
+  <!-- Card 1: DEEDOX -->
+  <g class="card" style="animation-delay: 0.1s">
+    <rect x="0" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="0" y="0" width="276" height="4" rx="2" fill="#39d353"/>
+    <text x="18" y="32" class="title">01 // DEEDOX PLATFORM</text>
+    <text x="18" y="56" class="sub">AI Startup &amp; Digital Agency</text>
+    <text x="18" y="80" class="muted">Full-service agency delivering</text>
+    <text x="18" y="96" class="muted">premium websites, SaaS products,</text>
+    <text x="18" y="112" class="muted">AI automation &amp; video marketing.</text>
+    <rect x="18" y="138" width="240" height="1" fill="#21262d"/>
+    <text x="18" y="162" class="tag">Next.js · Tailwind · Supabase</text>
+    <text x="18" y="182" class="tag">AI Agents · Vercel · UI/UX</text>
+  </g>
+
+  <!-- Card 2: PROGRESSO -->
+  <g class="card" style="animation-delay: 0.25s">
+    <rect x="292" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="292" y="0" width="276" height="4" rx="2" fill="#58a6ff"/>
+    <text x="310" y="32" class="title" fill="#58a6ff">02 // PROGRESSO APP</text>
+    <text x="310" y="56" class="sub">Minimalist Productivity OS</text>
+    <text x="310" y="80" class="muted">Native Android habit tracker,</text>
+    <text x="310" y="96" class="muted">routine builder, discipline stats</text>
+    <text x="310" y="112" class="muted">&amp; background app blocker.</text>
+    <rect x="310" y="138" width="240" height="1" fill="#21262d"/>
+    <text x="310" y="162" class="tag">Kotlin · Jetpack Compose</text>
+    <text x="310" y="182" class="tag">Android SDK · Material 3</text>
+  </g>
+
+  <!-- Card 3: SCREEN TIME TRACKER -->
+  <g class="card" style="animation-delay: 0.4s">
+    <rect x="584" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="584" y="0" width="276" height="4" rx="2" fill="#69f0a0"/>
+    <text x="602" y="32" class="title">03 // SCREEN TIME SYNC</text>
+    <text x="602" y="56" class="sub">Cloud Usage Analytics</text>
+    <text x="602" y="80" class="muted">Long-term Android screen time</text>
+    <text x="602" y="96" class="muted">backup engine syncing daily device</text>
+    <text x="602" y="112" class="muted">metrics to a live web dashboard.</text>
+    <rect x="602" y="138" width="240" height="1" fill="#21262d"/>
+    <text x="602" y="162" class="tag">WorkManager · UsageStatsManager</text>
+    <text x="602" y="182" class="tag">Supabase · Jetpack Compose</text>
+  </g>
+</svg>

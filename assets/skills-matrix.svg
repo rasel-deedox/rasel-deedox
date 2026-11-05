@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; }
+    .cat { fill: #39d353; font-weight: bold; }
+    .val { fill: #c9d1d9; }
+    .bar-bg { fill: #161b22; }
+    .bar-fg { fill: #26a641; }
+  </style>
+  <rect width="860" height="190" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="22" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="22" r="5.5" fill="#ffbd2e"/>
+  <circle cx="60" cy="22" r="5.5" fill="#27c93f"/>
+  <text x="430" y="25" fill="#8b949e" font-size="11px" text-anchor="middle">rasel@deedox: ~/capabilities --list</text>
+
+  <text x="28" y="58" class="cat">[Web &amp; SaaS]</text>
+  <text x="190" y="58" class="val">Next.js · React · Tailwind CSS · TypeScript · Supabase · Vercel</text>
+
+  <text x="28" y="88" class="cat">[Android Native]</text>
+  <text x="190" y="88" class="val">Kotlin · Jetpack Compose · WorkManager · Material UI · Web-to-APK</text>
+
+  <text x="28" y="118" class="cat">[AI &amp; Automation]</text>
+  <text x="190" y="118" class="val">AI Agents · OpenRouter API · Business Chatbots · Workflow Automation</text>
+
+  <text x="28" y="148" class="cat">[Agency &amp; Design]</text>
+  <text x="190" y="148" class="val">Dark-Mode &amp; Liquid Glass UI · Brand Identity · AI Video Marketing</text>
+
+  <text x="28" y="174" fill="#58a6ff" font-size="11px">status: all systems operational  ·  focus: shipping high-craft digital products</text>
+</svg>
