@@ -106,8 +106,7 @@
 <p align="left">
   <a href="https://github.com/rasel-deedox">
     <img height="180em" src="https://streak-stats.demolab.com?user=rasel-deedox&theme=radical&hide_border=true&background=0d1117&ring=A93256&fire=A93256&currStreakNum=ffffff" alt="GitHub Streak" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasel-deedox&theme=vision-friendly-dark" alt="GitHub Stats" />
-  </a>
+    
 </p>
 
 
