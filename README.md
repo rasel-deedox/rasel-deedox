@@ -69,8 +69,21 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/rasel-deedox" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="rasel-deedox" height="40" width="40" />
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&theme=transparent&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&currStreakLabel=FF6600&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
+         alt="rasel-deedox" 
+         style="
+           background: #050505; 
+           padding: 20px; 
+           border-radius: 20px; 
+           box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.8), inset 0 0 0 1.5px rgba(255, 255, 255, 0.15), inset 0 0 20px rgba(255, 255, 255, 0.03); 
+           backdrop-filter: blur(12px);
+           -webkit-backdrop-filter: blur(12px);
+         " />
   </a>
+</div>
+
   &nbsp;
   <a href="https://twitter.com/RaselAhmel_OX" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="RaselAhmel_OX" height="40" width="40" />
