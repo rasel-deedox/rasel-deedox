@@ -91,17 +91,21 @@
   <a href="https://git.io/streak-stats">
     <div align="center">
   <a href="https://git.io/streak-stats">
+    <div align="center">
+  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&theme=transparent&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&currStreakLabel=FF6600&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
          alt="rasel-deedox" 
          style="
            background: #050505; 
            padding: 20px; 
            border-radius: 20px; 
-           border: 1px solid rgba(255, 255, 255, 0.2);
-           box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.8), inset 0 0 15px rgba(255, 255, 255, 0.02); 
+           border: 1px solid rgba(255, 255, 255, 0.6); 
+           box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.8); 
            backdrop-filter: blur(12px);
-           -webkit-backdrop-filter: blur(12px);
-         " />
+           -webkit-backdrop-filter: blur(12px);"/>
+  </a>
+</div>
+
   </a>
 </div>
 
