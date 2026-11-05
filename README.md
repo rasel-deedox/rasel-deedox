@@ -87,16 +87,14 @@
 <h3 align="left">GitHub Stats & Analytics:</h3>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&theme=transparent&hide_border=true&ring=FF6600&fire=FF6600&currStreakNum=FF6600&currStreakLabel=FF6600&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-deedox&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=FFFFFF&sideLabels=38BDF8&dates=FFFFFF" 
          alt="rasel-deedox" 
          style="
-           background: #050505; 
-           padding: 20px; 
-           border-radius: 20px; 
-           border: 1.5px solid #FFFFFF; 
-           box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.9), 0 0 10px rgba(255, 255, 255, 0.3); 
-           backdrop-filter: blur(12px);
-           -webkit-backdrop-filter: blur(12px);
+           background: #0B0F19; 
+           padding: 22px; 
+           border-radius: 16px; 
+           border: 2px solid rgba(255, 255, 255, 0.8); 
+           box-shadow: 0 12px 35px rgba(0, 0, 0, 0.9), 0 0 15px rgba(56, 189, 248, 0.25); 
          " />
   </a>
 </div>
