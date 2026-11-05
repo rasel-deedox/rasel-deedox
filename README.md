@@ -16,14 +16,24 @@
 </div>
 # Hi 👋, I'm Rasel Ahmed | DEEDOX
 
-### A passionate Full-Stack & Python Developer
+### 🚀 AI-Powered Full-Stack Developer | AI Agent & Automation Builder
 
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img src="https://github-profile-trophy.vercel.app/?username=rasel-deedox&theme=onedark&no-frame=true&row=1" alt="rasel-deedox" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&vCenter=true&width=600&lines=Founder+%26+Lead+Developer+at+DEEDOX;Building+Smart+Apps+%26+SaaS+with+AI;AI+Agents+%26+Workflow+Automation+Specialist;Full-Stack+Web+%26+Android+App+Builder" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/rasel-deedox">
+    <img src="https://komarev.com/ghpvc/?username=rasel-deedox&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="rasel-deedox" />
+  </a>
+  <a href="https://github.com/rasel-deedox?tab=followers">
+    <img src="https://img.shields.io/github/followers/rasel-deedox?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  </a>
+</p>
+
+- 🤖 I build **AI-powered web apps, Android apps, AI Agents, and smart automation workflows**
 - 👨‍💻 All of my projects are available at **[https://deedoxstudio.com/](https://deedoxstudio.com/)**
 - 📝 I regularly write articles on **[https://deedoxstudio.com/](https://deedoxstudio.com/)**
 
@@ -48,13 +58,14 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rasel-deedox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-deedox&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=rasel-deedox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rasel-deedox&theme=tokyonight" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/rasel-deedox">
-    <img src="https://streak-stats.demolab.com?user=rasel-deedox&theme=tokyonight" alt="GitHub Streak" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rasel-deedox&theme=tokyonight" alt="Profile Details" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rasel-deedox&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
