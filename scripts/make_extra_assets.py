@@ -53,55 +53,55 @@ hero_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="170" v
 with open("assets/hero-banner.svg", "w", encoding="utf-8") as f:
     f.write(hero_svg)
 
-# 2. Featured Projects & Agency Showcase (assets/projects-showcase.svg) - Premium Cream / Off-White & Deep Burgundy Theme
+# 2. Featured Projects & Agency Showcase (assets/projects-showcase.svg) - Original Neon Green & Dark Terminal
 projects_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="210" viewBox="0 0 860 210">
   <style>
-    .title { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13.5px; font-weight: bold; fill: #451126; }
-    .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11.5px; font-weight: 600; fill: #5A1827; }
-    .muted { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; fill: #6A2737; }
-    .tag { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10.5px; font-weight: 600; fill: #8B2244; }
+    .title { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 14px; font-weight: bold; fill: #39d353; }
+    .sub { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11.5px; fill: #c9d1d9; }
+    .muted { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; fill: #8b949e; }
+    .tag { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 10.5px; fill: #58a6ff; }
     .card { opacity: 0; animation: fadeUp 0.4s ease forwards; }
     @keyframes fadeUp { to { opacity: 1; } }
   </style>
 
   <!-- Card 1: DEEDOX -->
   <g class="card" style="animation-delay: 0.1s">
-    <rect x="0" y="0" width="276" height="205" rx="10" fill="#fdfbf7" stroke="#451126" stroke-width="1.2"/>
-    <rect x="0" y="0" width="276" height="4" rx="2" fill="#5A1827"/>
+    <rect x="0" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="0" y="0" width="276" height="4" rx="2" fill="#39d353"/>
     <text x="18" y="32" class="title">01 // DEEDOX PLATFORM</text>
     <text x="18" y="56" class="sub">AI Startup &amp; Digital Agency</text>
     <text x="18" y="80" class="muted">Full-service agency delivering</text>
     <text x="18" y="96" class="muted">premium websites, SaaS products,</text>
     <text x="18" y="112" class="muted">AI automation &amp; video marketing.</text>
-    <rect x="18" y="138" width="240" height="1" fill="#E8DFD8"/>
+    <rect x="18" y="138" width="240" height="1" fill="#21262d"/>
     <text x="18" y="162" class="tag">Next.js · Tailwind · Supabase</text>
     <text x="18" y="182" class="tag">AI Agents · Vercel · UI/UX</text>
   </g>
 
   <!-- Card 2: PROGRESSO -->
   <g class="card" style="animation-delay: 0.25s">
-    <rect x="292" y="0" width="276" height="205" rx="10" fill="#fdfbf7" stroke="#451126" stroke-width="1.2"/>
-    <rect x="292" y="0" width="276" height="4" rx="2" fill="#701A3D"/>
-    <text x="310" y="32" class="title">02 // PROGRESSO APP</text>
+    <rect x="292" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="292" y="0" width="276" height="4" rx="2" fill="#58a6ff"/>
+    <text x="310" y="32" class="title" fill="#58a6ff">02 // PROGRESSO APP</text>
     <text x="310" y="56" class="sub">Minimalist Productivity OS</text>
     <text x="310" y="80" class="muted">Native Android habit tracker,</text>
     <text x="310" y="96" class="muted">routine builder, discipline stats</text>
     <text x="310" y="112" class="muted">&amp; background app blocker.</text>
-    <rect x="310" y="138" width="240" height="1" fill="#E8DFD8"/>
+    <rect x="310" y="138" width="240" height="1" fill="#21262d"/>
     <text x="310" y="162" class="tag">Kotlin · Jetpack Compose</text>
     <text x="310" y="182" class="tag">Android SDK · Material 3</text>
   </g>
 
   <!-- Card 3: SCREEN TIME TRACKER -->
   <g class="card" style="animation-delay: 0.4s">
-    <rect x="584" y="0" width="276" height="205" rx="10" fill="#fdfbf7" stroke="#451126" stroke-width="1.2"/>
-    <rect x="584" y="0" width="276" height="4" rx="2" fill="#8B2244"/>
+    <rect x="584" y="0" width="276" height="205" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <rect x="584" y="0" width="276" height="4" rx="2" fill="#69f0a0"/>
     <text x="602" y="32" class="title">03 // SCREEN TIME SYNC</text>
     <text x="602" y="56" class="sub">Cloud Usage Analytics</text>
     <text x="602" y="80" class="muted">Long-term Android screen time</text>
     <text x="602" y="96" class="muted">backup engine syncing daily device</text>
     <text x="602" y="112" class="muted">metrics to a live web dashboard.</text>
-    <rect x="602" y="138" width="240" height="1" fill="#E8DFD8"/>
+    <rect x="602" y="138" width="240" height="1" fill="#21262d"/>
     <text x="602" y="162" class="tag">WorkManager · UsageStatsManager</text>
     <text x="602" y="182" class="tag">Supabase · Jetpack Compose</text>
   </g>
@@ -110,7 +110,7 @@ projects_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="21
 with open("assets/projects-showcase.svg", "w", encoding="utf-8") as f:
     f.write(projects_svg)
 
-# 3. Categorized Tech Stack & Capabilities Matrix (assets/skills-matrix.svg) - Original Dark Terminal
+# 3. Categorized Tech Stack & Capabilities Matrix (assets/skills-matrix.svg) - Original Neon Green & Dark Terminal
 skills_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190">
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; }
@@ -141,7 +141,7 @@ skills_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="190"
 with open("assets/skills-matrix.svg", "w", encoding="utf-8") as f:
     f.write(skills_svg)
 
-# 4. Minimal Animated Footer (assets/footer-wave.svg) - Original Dark Terminal
+# 4. Minimal Animated Footer (assets/footer-wave.svg) - Original Neon Green & Dark Terminal
 footer_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="54" viewBox="0 0 860 54">
   <rect width="860" height="54" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
   <circle cx="28" cy="27" r="4.5" fill="#39d353">
@@ -158,4 +158,4 @@ footer_svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="860" height="54" 
 with open("assets/footer-wave.svg", "w", encoding="utf-8") as f:
     f.write(footer_svg)
 
-print("Successfully generated all extra SVG assets with default green terminal theme and cream-burgundy projects showcase")
+print("Successfully generated all extra SVG assets with original classic neon green and dark terminal theme")
