@@ -18,58 +18,58 @@
         }
     
       </style>
-      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#5A1827" stroke-width="1"/>
+      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
       <circle cx="24" cy="22" r="5.5" fill="#ff5f56"/>
       <circle cx="42" cy="22" r="5.5" fill="#ffbd2e"/>
       <circle cx="60" cy="22" r="5.5" fill="#27c93f"/>
-      <text x="245" y="26" fill="#C77B9B" font-size="11px" text-anchor="middle">rasel@deedox: ~ (neofetch)</text>
+      <text x="245" y="26" fill="#8b949e" font-size="11px" text-anchor="middle">rasel@deedox: ~ (neofetch)</text>
       
     <g class="row" style="animation-delay: 0.05s">
-      <text x="24" y="54" fill="#E5B5C7" font-weight="bold" font-size="13.5px">rasel@deedox</text>
-      <text x="24" y="67" fill="#5A1827">----------------------------------------</text>
+      <text x="24" y="54" fill="#39d353" font-weight="bold" font-size="13.5px">rasel@deedox</text>
+      <text x="24" y="67" fill="#30363d">----------------------------------------</text>
     </g>
         <g class="row" style="animation-delay: 0.15s">
-          <text x="24" y="82" fill="#C77B9B" font-weight="bold">Now:</text>
-          <text x="108" y="82" fill="#F8F0F3">Founder &amp; Lead Developer @ DEEDOX</text>
+          <text x="24" y="82" fill="#58a6ff" font-weight="bold">Now:</text>
+          <text x="108" y="82" fill="#c9d1d9">Founder &amp; Lead Developer @ DEEDOX</text>
         </g>
         <g class="row" style="animation-delay: 0.26s">
-          <text x="24" y="105" fill="#C77B9B" font-weight="bold">Agency:</text>
-          <text x="108" y="105" fill="#F8F0F3">Full-Service AI, Web/App &amp; Media Agency</text>
+          <text x="24" y="105" fill="#58a6ff" font-weight="bold">Agency:</text>
+          <text x="108" y="105" fill="#c9d1d9">Full-Service AI, Web/App &amp; Media Agency</text>
         </g>
         <g class="row" style="animation-delay: 0.37s">
-          <text x="24" y="128" fill="#C77B9B" font-weight="bold">Services:</text>
-          <text x="108" y="128" fill="#F8F0F3">SaaS, AI Automation &amp; Video Marketing</text>
+          <text x="24" y="128" fill="#58a6ff" font-weight="bold">Services:</text>
+          <text x="108" y="128" fill="#c9d1d9">SaaS, AI Automation &amp; Video Marketing</text>
         </g>
         <g class="row" style="animation-delay: 0.48s">
-          <text x="24" y="151" fill="#C77B9B" font-weight="bold">Web:</text>
-          <text x="108" y="151" fill="#F8F0F3">Next.js, Tailwind CSS, Supabase, Vercel</text>
+          <text x="24" y="151" fill="#58a6ff" font-weight="bold">Web:</text>
+          <text x="108" y="151" fill="#c9d1d9">Next.js, Tailwind CSS, Supabase, Vercel</text>
         </g>
         <g class="row" style="animation-delay: 0.59s">
-          <text x="24" y="174" fill="#C77B9B" font-weight="bold">App &amp; AI:</text>
-          <text x="108" y="174" fill="#F8F0F3">Kotlin, Jetpack Compose, AI Agents</text>
+          <text x="24" y="174" fill="#58a6ff" font-weight="bold">App &amp; AI:</text>
+          <text x="108" y="174" fill="#c9d1d9">Kotlin, Jetpack Compose, AI Agents</text>
         </g>
         <g class="row" style="animation-delay: 0.70s">
-          <text x="24" y="197" fill="#C77B9B" font-weight="bold">Projects:</text>
-          <text x="108" y="197" fill="#F8F0F3">DEEDOX, Progresso, Screen Time Tracker</text>
+          <text x="24" y="197" fill="#58a6ff" font-weight="bold">Projects:</text>
+          <text x="108" y="197" fill="#c9d1d9">DEEDOX, Progresso, Screen Time Tracker</text>
         </g>
         <g class="row" style="animation-delay: 0.81s">
-          <text x="24" y="220" fill="#C77B9B" font-weight="bold">Location:</text>
-          <text x="108" y="220" fill="#F8F0F3">Dhaka, Bangladesh</text>
+          <text x="24" y="220" fill="#58a6ff" font-weight="bold">Location:</text>
+          <text x="108" y="220" fill="#c9d1d9">Dhaka, Bangladesh</text>
         </g>
     <g class="row" style="animation-delay: 0.92s">
-      <text x="24" y="251" fill="#E5B5C7" font-weight="bold">Highlights</text>
-      <text x="24" y="263" fill="#5A1827">----------</text>
+      <text x="24" y="251" fill="#39d353" font-weight="bold">Highlights</text>
+      <text x="24" y="263" fill="#30363d">----------</text>
     </g>
         <g class="row" style="animation-delay: 1.03s">
-          <text x="24" y="279" fill="#D9A5B8">• Building premium SaaS, web &amp; Android apps at DEEDOX</text>
+          <text x="24" y="279" fill="#8b949e">• Building premium SaaS, web &amp; Android apps at DEEDOX</text>
         </g>
         <g class="row" style="animation-delay: 1.14s">
-          <text x="24" y="300" fill="#D9A5B8">• Crafting sleek dark-mode &amp; liquid glass UI experiences</text>
+          <text x="24" y="300" fill="#8b949e">• Crafting sleek dark-mode &amp; liquid glass UI experiences</text>
         </g>
         <g class="row" style="animation-delay: 1.25s">
-          <text x="24" y="321" fill="#D9A5B8">• Developing native Android apps with Jetpack Compose</text>
+          <text x="24" y="321" fill="#8b949e">• Developing native Android apps with Jetpack Compose</text>
         </g>
         <g class="row" style="animation-delay: 1.36s">
-          <text x="24" y="342" fill="#D9A5B8">• Automating business workflows with AI agents</text>
-        </g><g class="row" style="animation-delay: 1.47s"><rect x="24" y="398" width="16" height="11" rx="2.5" fill="#3D0C18"/><rect x="46" y="398" width="16" height="11" rx="2.5" fill="#5A1827"/><rect x="68" y="398" width="16" height="11" rx="2.5" fill="#701A3D"/><rect x="90" y="398" width="16" height="11" rx="2.5" fill="#8B2244"/><rect x="112" y="398" width="16" height="11" rx="2.5" fill="#A32852"/><rect x="134" y="398" width="16" height="11" rx="2.5" fill="#C77B9B"/><rect x="156" y="398" width="16" height="11" rx="2.5" fill="#E5B5C7"/><rect x="178" y="398" width="16" height="11" rx="2.5" fill="#F8F0F3"/></g>
+          <text x="24" y="342" fill="#8b949e">• Automating business workflows with AI agents</text>
+        </g><g class="row" style="animation-delay: 1.47s"><rect x="24" y="398" width="16" height="11" rx="2.5" fill="#ff7b72"/><rect x="46" y="398" width="16" height="11" rx="2.5" fill="#3fb950"/><rect x="68" y="398" width="16" height="11" rx="2.5" fill="#d29922"/><rect x="90" y="398" width="16" height="11" rx="2.5" fill="#58a6ff"/><rect x="112" y="398" width="16" height="11" rx="2.5" fill="#bc8cff"/><rect x="134" y="398" width="16" height="11" rx="2.5" fill="#39c5cf"/><rect x="156" y="398" width="16" height="11" rx="2.5" fill="#c9d1d9"/><rect x="178" y="398" width="16" height="11" rx="2.5" fill="#69f0a0"/></g>
     </svg>

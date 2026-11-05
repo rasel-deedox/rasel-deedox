@@ -42,7 +42,7 @@ def make_ascii_svg(input_path="source-prepped.png", output_path="avi-ascii.svg")
 
         body.append(f'''
         <text x="12" y="{y}" clip-path="url(#clip-{i})" xml:space="preserve">{escaped_line}</text>
-        <rect x="12" y="{y - 7}" width="5" height="8" fill="#E5B5C7" opacity="0">
+        <rect x="12" y="{y - 7}" width="5" height="8" fill="#39d353" opacity="0">
           <animate attributeName="x" from="12" to="352" begin="{delay}s" dur="{dur}s" fill="freeze" />
           <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" begin="{delay}s" dur="{dur}s" fill="freeze" />
         </rect>''')
@@ -52,11 +52,11 @@ def make_ascii_svg(input_path="source-prepped.png", output_path="avi-ascii.svg")
         text {{
           font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
           font-size: 6.6px;
-          fill: #F8F0F3;
+          fill: #c9d1d9;
           letter-spacing: 0.15px;
         }}
       </style>
-      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#5A1827" stroke-width="1"/>
+      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
       <defs>{"".join(defs)}</defs>
       {"".join(body)}
     </svg>'''

@@ -2,31 +2,29 @@
   <defs>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="50%" stop-color="#1c0b13"/>
+      <stop offset="50%" stop-color="#111822"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
     <linearGradient id="neon-line" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="25%" stop-color="#701A3D" stop-opacity="1"/>
-      <stop offset="50%" stop-color="#E5B5C7" stop-opacity="1"/>
-      <stop offset="75%" stop-color="#5A1827" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39d353" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#2a121b" stroke-width="0.7"/>
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#21262d" stroke-width="0.7"/>
     </pattern>
   </defs>
-  <rect width="860" height="170" rx="10" fill="url(#bg-grad)" stroke="#5A1827" stroke-width="1"/>
+  <rect width="860" height="170" rx="10" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1"/>
   <rect width="860" height="170" rx="10" fill="url(#grid)" opacity="0.6"/>
 
   <!-- Animated Orbital / Terminal Pulse Geometry -->
-  <circle cx="780" cy="85" r="45" fill="none" stroke="#701A3D" stroke-width="1" stroke-dasharray="6 4" opacity="0.5">
+  <circle cx="780" cy="85" r="45" fill="none" stroke="#26a641" stroke-width="1" stroke-dasharray="6 4" opacity="0.4">
     <animateTransform attributeName="transform" type="rotate" from="0 780 85" to="360 780 85" dur="18s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="780" cy="85" r="28" fill="none" stroke="#C77B9B" stroke-width="1" stroke-dasharray="4 6" opacity="0.6">
+  <circle cx="780" cy="85" r="28" fill="none" stroke="#58a6ff" stroke-width="1" stroke-dasharray="4 6" opacity="0.4">
     <animateTransform attributeName="transform" type="rotate" from="360 780 85" to="0 780 85" dur="12s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="780" cy="85" r="4" fill="#E5B5C7">
+  <circle cx="780" cy="85" r="4" fill="#39d353">
     <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
   </circle>
 
@@ -34,12 +32,12 @@
   <circle cx="24" cy="22" r="5.5" fill="#ff5f56"/>
   <circle cx="42" cy="22" r="5.5" fill="#ffbd2e"/>
   <circle cx="60" cy="22" r="5.5" fill="#27c93f"/>
-  <text x="82" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#C77B9B">rasel@deedox: ~/identity.sh</text>
+  <text x="82" y="26" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#8b949e">rasel@deedox: ~/identity.sh</text>
 
   <!-- Main Identity Typography -->
-  <text x="36" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="bold" fill="#F8F0F3" letter-spacing="1">RASEL AHMED <tspan fill="#E5B5C7">// DEEDOX</tspan></text>
-  <text x="36" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#C77B9B">Founder &amp; Lead Developer  ·  Full-Stack Web, Android &amp; AI Automation Agency</text>
-  <text x="36" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#D9A5B8">Building scalable SaaS platforms, native Jetpack Compose apps &amp; intelligent workflows.</text>
+  <text x="36" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" font-weight="bold" fill="#c9d1d9" letter-spacing="1">RASEL AHMED <tspan fill="#39d353">// DEEDOX</tspan></text>
+  <text x="36" y="108" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#58a6ff">Founder &amp; Lead Developer  ·  Full-Stack Web, Android &amp; AI Automation Agency</text>
+  <text x="36" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">Building scalable SaaS platforms, native Jetpack Compose apps &amp; intelligent workflows.</text>
 
   <!-- Glowing Animated Underline -->
   <rect x="36" y="148" width="420" height="2" fill="url(#neon-line)">
