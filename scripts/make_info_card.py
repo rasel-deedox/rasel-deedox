@@ -32,15 +32,15 @@ def make_info_card(output_path="info-card.svg"):
     # Header prompt
     rows_svg.append(f'''
     <g class="row" style="animation-delay: 0.05s">
-      <text x="24" y="54" fill="#39d353" font-weight="bold" font-size="13.5px">{html.escape(HEADER_TITLE)}</text>
-      <text x="24" y="67" fill="#30363d">----------------------------------------</text>
+      <text x="24" y="54" fill="#E5B5C7" font-weight="bold" font-size="13.5px">{html.escape(HEADER_TITLE)}</text>
+      <text x="24" y="67" fill="#5A1827">----------------------------------------</text>
     </g>''')
 
     for key, val in INFO_ROWS:
         rows_svg.append(f'''
         <g class="row" style="animation-delay: {delay:.2f}s">
-          <text x="24" y="{y}" fill="#58a6ff" font-weight="bold">{html.escape(key)}:</text>
-          <text x="108" y="{y}" fill="#c9d1d9">{html.escape(val)}</text>
+          <text x="24" y="{y}" fill="#C77B9B" font-weight="bold">{html.escape(key)}:</text>
+          <text x="108" y="{y}" fill="#F8F0F3">{html.escape(val)}</text>
         </g>''')
         y += 23
         delay += 0.11
@@ -48,8 +48,8 @@ def make_info_card(output_path="info-card.svg"):
     y += 8
     rows_svg.append(f'''
     <g class="row" style="animation-delay: {delay:.2f}s">
-      <text x="24" y="{y}" fill="#39d353" font-weight="bold">Highlights</text>
-      <text x="24" y="{y + 12}" fill="#30363d">----------</text>
+      <text x="24" y="{y}" fill="#E5B5C7" font-weight="bold">Highlights</text>
+      <text x="24" y="{y + 12}" fill="#5A1827">----------</text>
     </g>''')
     y += 28
     delay += 0.11
@@ -57,13 +57,13 @@ def make_info_card(output_path="info-card.svg"):
     for item in HIGHLIGHTS:
         rows_svg.append(f'''
         <g class="row" style="animation-delay: {delay:.2f}s">
-          <text x="24" y="{y}" fill="#8b949e">{html.escape(item)}</text>
+          <text x="24" y="{y}" fill="#D9A5B8">{html.escape(item)}</text>
         </g>''')
         y += 21
         delay += 0.11
 
-    # Terminal palette blocks
-    colors = ["#ff7b72", "#3fb950", "#d29922", "#58a6ff", "#bc8cff", "#39c5cf", "#c9d1d9", "#69f0a0"]
+    # Brand palette blocks: Deep Burgundy -> Vibrant Wine -> Rose Accent -> Soft Ivory Cream
+    colors = ["#3D0C18", "#5A1827", "#701A3D", "#8B2244", "#A32852", "#C77B9B", "#E5B5C7", "#F8F0F3"]
     blocks = "".join([
         f'<rect x="{24 + i*22}" y="{height - 32}" width="16" height="11" rx="2.5" fill="{c}"/>'
         for i, c in enumerate(colors)
@@ -92,11 +92,11 @@ def make_info_card(output_path="info-card.svg"):
         }}
         {anim_css}
       </style>
-      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#5A1827" stroke-width="1"/>
       <circle cx="24" cy="22" r="5.5" fill="#ff5f56"/>
       <circle cx="42" cy="22" r="5.5" fill="#ffbd2e"/>
       <circle cx="60" cy="22" r="5.5" fill="#27c93f"/>
-      <text x="245" y="26" fill="#8b949e" font-size="11px" text-anchor="middle">rasel@deedox: ~ (neofetch)</text>
+      <text x="245" y="26" fill="#C77B9B" font-size="11px" text-anchor="middle">rasel@deedox: ~ (neofetch)</text>
       {"".join(rows_svg)}
     </svg>'''
 
@@ -106,4 +106,3 @@ def make_info_card(output_path="info-card.svg"):
 
 if __name__ == "__main__":
     make_info_card()
-

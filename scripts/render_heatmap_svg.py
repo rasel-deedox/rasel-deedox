@@ -1,7 +1,7 @@
 import json
 import html
 
-PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+PALETTE = ["#161b22", "#38101C", "#5A1827", "#7D1D3A", "#C77B9B", "#F8F0F3"]
 
 def render_heatmap():
     with open("data/contributions.json", "r", encoding="utf-8") as f:
@@ -26,7 +26,7 @@ def render_heatmap():
         x = round(start_x + week * (box_size + gap), 2)
         y = round(start_y + dow * (box_size + gap), 2)
         lvl = int(day.get("level", 0))
-        # Map level 4 high days to level 5 neon highlight when count is high
+        # Map level 4 high days to level 5 cream highlight when count is high
         if lvl == 4 and day.get("count", 0) >= 10:
             lvl = 5
         color = PALETTE[min(lvl, len(PALETTE) - 1)]
@@ -41,10 +41,10 @@ def render_heatmap():
     legend = []
     lx = width - 165
     ly = height - 28
-    legend.append(f'<text x="{lx - 34}" y="{ly + 10}" fill="#8b949e">Less</text>')
+    legend.append(f'<text x="{lx - 34}" y="{ly + 10}" fill="#C77B9B">Less</text>')
     for i, c in enumerate(PALETTE):
         legend.append(f'<rect x="{lx + i*15}" y="{ly}" width="11" height="11" rx="2.5" fill="{c}"/>')
-    legend.append(f'<text x="{lx + 96}" y="{ly + 10}" fill="#8b949e">More</text>')
+    legend.append(f'<text x="{lx + 96}" y="{ly + 10}" fill="#C77B9B">More</text>')
 
     stats_str = f"{total_text}  ·  Current streak: {current_streak}d  ·  Longest: {longest_streak}d"
 
@@ -66,9 +66,9 @@ def render_heatmap():
           }}
         }}
       </style>
-      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+      <rect width="100%" height="100%" rx="10" fill="#0d1117" stroke="#5A1827" stroke-width="1"/>
       {"".join(cells)}
-      <text x="32" y="{height - 18}" fill="#c9d1d9">{html.escape(stats_str)}</text>
+      <text x="32" y="{height - 18}" fill="#F8F0F3">{html.escape(stats_str)}</text>
       {"".join(legend)}
     </svg>'''
 
@@ -78,4 +78,3 @@ def render_heatmap():
 
 if __name__ == "__main__":
     render_heatmap()
-
