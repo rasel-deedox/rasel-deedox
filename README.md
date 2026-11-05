@@ -100,18 +100,3 @@
          " />
   </a>
 </div>
-           border: 1.5px solid #FFFFFF; 
-           box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.9), 0 0 10px rgba(255, 255, 255, 0.3); 
-           backdrop-filter: blur(12px);
-           -webkit-backdrop-filter: blur(12px);
-         " />
-  </a>
-</div>
->
-
-  </a>
-</div>
-
-  </a>
-    </div>
-</p>
